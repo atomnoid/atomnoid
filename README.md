@@ -3,7 +3,7 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=atomnoid.atomnoid)
+
 [![Github](https://img.shields.io/github/followers/atomnoid?label=Follow&style=social)](https://github.com/atomnoid)
 
 <div size='20px'> Hi! My name is Aayush. Thank You for taking the time to view my GitHub Profile :smile: 
