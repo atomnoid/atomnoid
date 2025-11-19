@@ -1,26 +1,25 @@
-<h1> Hello Fellow < Developers/ >
-<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+<h1 align="center">🔥👑 Ichigo-Style GitHub Profile 👑🔥</h1>
 
-
-
-[![Github](https://img.shields.io/github/followers/atomnoid?label=Follow&style=social)](https://github.com/atomnoid)
-
-<div size='20px'> Hi! My name is Aayush. Thank You for taking the time to view my GitHub Profile :smile: 
+<div align="center">
+  <!-- Replace GIF Link Below -->
+  <img src="YOUR_GIF_LINK" width="500" />
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+---
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+### 🏯 About Me
 
-- 🔭 I’m currently a student
-  
-- 🌱 I’m learning Git, Github, Django, Postgres
-  
-- 👯 I’m looking to collaborate in Django projects
-  
-- 💬 Ask me about Python, C and other CS related stuffs
-  
-- ⚡ Fun fact: Me gustan los girasoles.
 
+Name: Aayush
+Role: Full-Stack / Software Developer
+Status: Learning everyday
+Goal: To become the best developer.
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" /> </p>
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=false&no-bg=true&margin-w=5" /> </p>
+
+<p align="center">
+  • <a href="https://linkedin.com/in/">LinkedIn</a> 
+  • <a href="https://twitter.com/atomnoidd">Twitter</a>
+  • <a href="atomnoid@gmail.com">Email</a> </p>
