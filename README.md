@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I am aayush a 19yo Developer<br><br>- 🔭 I love research and core CS stuffs!<br>- 📚 I'm currently learning Backend technologies<br>- ⚡ Fun Fact. 🔐 SHA-256 has 2¹²⁸ possible hashes. Cracking it by brute force would take longer than the age of the universe.</p>
+<p align="left">I am aayush a 20yo Developer<br><br>- 🔭 An average Indie Hacker and i love research and core CS stuffs! <br>- 📚 I'm currently building products and SaaS!<br>- ⚡ Fun Fact. 🔐 SHA-256 has 2¹²⁸ possible hashes. Cracking it by brute force would take longer than the age of the universe.</p>
 
 ###
 
