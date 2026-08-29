@@ -81,6 +81,8 @@ A Multi tenant with Dynamic RBAC platform for organizing and managing Organisati
 
 **Tech:** React · Next.js · TypeScript · MongoDB · Auth.js · PrimsORM · REST Api · Firebase 
 
+[GitHub](https://github.com/atomnoid/ChapterHQ)
+
 ---
 
 ### 💬 RevUchat AI
@@ -89,13 +91,7 @@ Revuchat AI helps business to increase their google rating by interacting with c
 
 **Tech:** Next.js · React · Supabase · Typescript · WhatsApp Business API · Open API · REST Api 
 
----
-
-### 🌍 MyWanderLists
-
-A collaborative travel planning platform for creating, organizing, and sharing travel lists.
-
-**Tech:** Next.js · TypeScript · Supabase · React.js · TypeScript · Supabase · REST Api
+[GitHub](https://github.com/atomnoid/RevUchat-Ai)
 
 ---
 
@@ -105,6 +101,8 @@ A role-based talent screening platform for managing applicants, profiles, submis
 
 **Tech:** React · JavaScript · Supabase · PostgreSQL · VITE · REST Api
 
+[GitHub](https://github.com/atomnoid/HCT_TalentScreening)
+
 ---
 
 ### 🛠️ QuicklifyTools
@@ -112,6 +110,8 @@ A role-based talent screening platform for managing applicants, profiles, submis
 A collection of useful web-based tools for working with files and images.
 
 **Tech:** Next.js · Cloudinary · Vercel · React · Rest Api
+
+[GitHub](https://github.com/atomnoid/quicklifytools)
 
 ---
 
@@ -140,13 +140,13 @@ Currently interested in contributing to projects around:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/asdev511/)">
+  <a href="https://www.linkedin.com/in/asdev511/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="[YOUR_TWITTER_URL](https://x.com/atomnoidd)">
+  <a href="https://x.com/atomnoidd">
     <img src="https://img.shields.io/badge/Twitter%2FX-Follow-black?style=for-the-badge&logo=x" />
   </a>
-  <a href="[YOUR_PORTFOLIO_URL](https://devfolio-atomnoid.vercel.app/)">
+  <a href="https://devfolio-atomnoid.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" />
   </a>
 </p>
