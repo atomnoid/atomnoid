@@ -33,8 +33,7 @@ I enjoy turning ideas into useful products, learning how systems work under the 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js"/>
 </p>
-
-`REST APIs`
+**API:** REST APIs
 
 ### Databases & Backend Services
 
@@ -45,6 +44,7 @@ I enjoy turning ideas into useful products, learning how systems work under the 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" title="Supabase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" title="Prisma"/>
 </p>
+**API:** Auth.js
 
 **Authentication:** Auth.js · Firebase Auth · Supabase Auth
 
