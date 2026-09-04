@@ -46,7 +46,7 @@ I enjoy turning ideas into useful products, learning how systems work under the 
   <img src="https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0&logoColor=white" height="30" alt="Auth.js"/>
 </p>
 
-### Databases & Backend Services
+### Authentication
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" title="Supabase"/>
